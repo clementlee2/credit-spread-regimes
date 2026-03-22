@@ -14,6 +14,7 @@ The dataset consists of historical US corporate credit spreads (Investment Grade
 
 🧠 Methodology
 Exploratory Data Analysis (EDA):
+
 Analyzed spread distributions, volatility clustering, and time-series behavior
 Regime Detection Models:
 Applied Hidden Markov Models (HMM) and/or Gaussian Mixture Models (GMM) to identify latent market states
