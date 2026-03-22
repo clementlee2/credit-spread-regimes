@@ -21,9 +21,11 @@ Feature Engineering:
 Constructed inputs such as spread levels, changes, and rolling volatility
 Backtesting & Signal Evaluation:
 Assessed whether identified regimes have predictive power for forward spread movements and equity volatility
+
 🔧 Tools & Technologies
 Language: Python
 Libraries: pandas, numpy, matplotlib, scikit-learn, hmmlearn
+
 
 Techniques:
 
@@ -32,8 +34,17 @@ Gaussian Mixture Models (GMM)
 Time series analysis
 Regime classification
 Signal backtesting
+
 📈 Key Outcomes
 Identified distinct credit regimes corresponding to risk-on, stress, and recovery environments
 Observed clustering of high-volatility periods within specific regimes
 Found evidence that stress regimes are associated with future spread widening and increased market volatility
 Demonstrated potential for regime-based signals to inform credit positioning and risk management
+
+💡 Practical Implication
+
+Regime identification can be used to:
+
+Adjust credit exposure dynamically
+Anticipate periods of market stress
+Inform hedging strategies using equity or volatility instruments
